@@ -17,4 +17,4 @@ All R packages that are utilized in the frame of these implementations are inclu
 
 ### 🧮 `MachineLearningChunks.Rmd`
 
-A collection of Machine Learning tasks revolving around Bayesian statistics, learning, and implementations. The code is included in the R Markdown, split by problem; the final report can be found [here](/out/MachineLearningChunks.html).
+A collection of Machine Learning tasks revolving around Bayesian statistics, learning, and implementations. The code is included in the [R Markdown](/src/MachineLearningChunks.Rmd), split by problem; the final report can be found [here](/out/MachineLearningChunks.html).
